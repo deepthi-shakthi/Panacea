@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"http",
+				"https"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"bacgrou",
+				"background\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"n",
+				"nav"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"navba",
+				"navbar"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"broder",
+				"border-radius\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"backgroun",
+				"background-blend-mode\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"scal",
+				"scaleX()\ttransform"
+			],
+			[
+				"transfo",
+				"transform\tproperty"
+			],
+			[
+				"tranfi",
+				"transform-origin\tproperty"
+			],
+			[
+				"tran",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"de",
+				"text-decoration\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select Previous"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/chandhana menon/Desktop/startbootstrap-heroic-features-gh-pages/css/heroic-features.css",
+		"/D/IBM webpage/css/style.css",
+		"/C/Users/chandhana menon/Desktop/startbootstrap-heroic-features-gh-pages/index.html",
+		"/D/IBM webpage/html/index.html",
+		"/D/IBM webpage/html/index0.html",
+		"/D/IBM webpage/css/style0.css",
+		"/C/Users/chandhana menon/Documents/Sunshine/web me 1/css/style.css",
+		"/C/Users/chandhana menon/Documents/Sunshine/web me 1/html/index.html",
+		"/C/Users/chandhana menon/Documents/Sunshine/web me 1/css/normalize.css",
+		"/C/Users/chandhana menon/Desktop/PurrfectMatch/app.css",
+		"/C/Users/chandhana menon/Desktop/PurrfectMatch/index0.html",
+		"/C/Users/chandhana menon/Downloads/original.zip",
+		"/C/Users/chandhana menon/Desktop/app.css",
+		"/D/IBM webpage/index.html",
+		"/C/Users/chandhana menon/Desktop/startbootstrap-heroic-features-gh-pages/vendor/bootstrap/css/bootstrap.min.css",
+		"/C/Users/chandhana menon/Desktop/startbootstrap-heroic-features-gh-pages/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/chandhana menon/Desktop/sdk-starter-node-master/.env.example",
+		"/C/Users/chandhana menon/Documents/GitHub/desktop-tutorial/README.md",
+		"/C/Users/chandhana menon/Documents/Sunshine/Website/html/index1.html",
+		"/C/Users/chandhana menon/Documents/Sunshine/Website/css/style.css",
+		"/C/Users/chandhana menon/Documents/Sunshine/gusto_pay_website/css/normalize.css",
+		"/C/Users/chandhana menon/Documents/Sunshine/gusto_pay_website/css/style.css",
+		"/C/Users/chandhana menon/Documents/Sunshine/gusto_pay_website/html/index1.html",
+		"/C/Users/chandhana menon/Downloads/line-icon-pack-212-premium-icons-petr/font/style.css",
+		"/C/Users/chandhana menon/Desktop/README.md",
+		"/C/Users/chandhana menon/Documents/Sunshine/gusto_pay_website/css/Capture.PNG",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/gusto_pay_website/css/style.css",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/gusto_pay_website/html/index1.html",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/csscrash/css/style.css",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/csscrash/html/index1.html",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/csscrash/img/office-block-at-night-nottingham-england-united-kingdom-AT47BM.jpg",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/csscrash/img/Online payslips with PayDashboard _ Pay Dashboard (en-GB)_files/megamenu.css",
+		"/C/Users/chandhana menon/Desktop/css/style-mobile.css",
+		"/C/Users/chandhana menon/Desktop/css/style-desktop.css",
+		"/C/Users/chandhana menon/Desktop/css/ie/v9.css",
+		"/C/Users/chandhana menon/Desktop/css/ie/v8.css",
+		"/C/Users/chandhana menon/Downloads/assets/css/main.css",
+		"/C/Users/chandhana menon/Downloads/assets/css/font-awesome.min.css",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/csscrash/style.css",
+		"/C/Users/chandhana menon/Desktop/GUSTO PAY/csscrash/index.html",
+		"/C/Users/chandhana menon/PycharmProjects/index.html",
+		"/C/Users/chandhana menon/PycharmProjects/csscrashcourse.css",
+		"/C/Users/chandhana menon/PycharmProjects/ukiyofrontend/admincus.py",
+		"/C/Users/chandhana menon/PycharmProjects/ukiyofrontend/loginpageforcustomer.py",
+		"/C/Users/chandhana menon/PycharmProjects/ukiyofrontend/loginpageforadmin.py",
+		"/C/Users/chandhana menon/PycharmProjects/ukiyofrontend/admincustomerpage.py",
+		"/C/Users/chandhana menon/Desktop/myexample.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "heroic-features.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
